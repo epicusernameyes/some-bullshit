@@ -1,4 +1,4 @@
-#include "envfx_snow.h"
+// #include "envfx_snow.h"
 
 const GeoLayout mario_armature_002_switch_option_002[] = {
 	GEO_NODE_START(),
